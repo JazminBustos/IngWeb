@@ -1,0 +1,42 @@
+# Binaries
+*.7z
+*.class
+*.dmg
+*.ear
+*.gz
+*.iso
+*.iws
+*.jar
+*.rar
+*.sar
+*.tar
+*.tar.gz
+*.war
+*.zip
+*.bak
+
+# NetBeans Specific
+!nbproject/project.properties
+!nbproject/project.xml
+build/
+core
+dist/
+nbactions.xml
+nbbuild/
+nb-configuration.xml
+nbdist/
+nbproject/*
+nbproject/private/
+
+# General Swap/Backup Files
+*.bak
+*.DS_Store
+*.lock
+*.log
+*.out
+*.so
+*.swp
+*~
+pom.xml.releaseBackup
+pom.xml.tag
+release.properties
